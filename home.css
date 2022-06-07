@@ -33,9 +33,10 @@
   margin-right: var(--dl-space-space-unit);
 }
 .home-container3 {
-  width: 105%;
+  width: 90%;
   height: 386px;
   display: flex;
+  max-width: 1200px;
   align-items: center;
   border-color: #464141;
   border-style: solid;
