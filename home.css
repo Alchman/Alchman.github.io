@@ -53,7 +53,7 @@
   padding-bottom: var(--dl-space-space-halfunit);
 }
 .home-container4 {
-  width: 90%;
+  width: 80%;
   height: 265px;
   display: flex;
   align-items: center;
@@ -63,10 +63,10 @@
   justify-content: center;
 }
 .home-image1 {
-  flex: 0;
-  height: 251px;
+  width: 368px;
+  height: 246px;
+  align-self: center;
   object-fit: cover;
-  margin-right: var(--dl-space-space-twounits);
 }
 .home-container5 {
   flex: 0 0 auto;
